@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e47zaouwf21mkmtf8p0ftmu72npszd2htrfsqh5hqik&rid=giphy.gif&ct=s" width="150"/>
+    <img src="https://media1.giphy.com/media/cgzHlhotPqBPesNYyU/giphy.gif?cid=ecf05e472r3pyqcezh81pxbf92uxlbwo4e30hcsrewc0b7zq&rid=giphy.gif&ct=s" width="150"/>
     <div id="badges">
         <a href="https://vk.com/progneo">
             <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
