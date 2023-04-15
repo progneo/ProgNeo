@@ -20,3 +20,7 @@
 ---
 ### My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProgNeo&theme=discord-old-blurple&hide_border=true)
+
+![ProgNeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgNeo&show_icons=true&theme=discord_old_blurple&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=progneo&layout=compact&theme=discord_old_blurple&hide_border=true)
