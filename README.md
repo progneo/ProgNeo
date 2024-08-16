@@ -16,7 +16,7 @@
 
 ### I'm Yaroslav! :man_technologist:
 
-- I am a C#, Kotlin, Java and Java Script developer. The most interesting direction for me is mobile development. At the moment I'm getting higher education. 
+- I am a C#, Kotlin, Java and Java Script developer. The most interesting direction for me is mobile development.
 ---
 ### My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProgNeo&theme=discord-old-blurple&hide_border=true)
